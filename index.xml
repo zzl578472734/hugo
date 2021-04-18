@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Future blog</title>
-    <link>http://zzl578472734.github.io/</link>
+    <link>https://zzl578472734.github.io/</link>
     <description>Recent content on Future blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://zzl578472734.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://zzl578472734.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
